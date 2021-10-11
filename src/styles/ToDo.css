@@ -1,0 +1,12 @@
+.ToDo {
+  display: flex;
+  margin: 2rem;
+}
+
+.ToDo-task {
+  margin: 1rem;
+}
+
+.ToDo-button {
+  margin: 1rem;
+}
